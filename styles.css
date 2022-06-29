@@ -41,6 +41,10 @@ li{
 
 }
 .addheading{
+  margin-bottom:30px;
+  color:#fff;
+}
+.form-label{
   color:#fff;
 }
 .addform{
